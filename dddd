@@ -1,0 +1,52 @@
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 267b69d..226dcc7 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -85,8 +85,46 @@[m
+           <small class="text-muted">この和牛の詳細を見る</small>[m
+         </div>[m
+       </a>[m
+[32m+[m[32m      <a href="#" class="card">[m
+[32m+[m[32m        <img class="card-img-top" src="img/ph_beaf.jpg">[m
+[32m+[m[32m        <div class="card-body">[m
+[32m+[m[32m          <h5 class="card-title">近江牛</h5>[m
+[32m+[m[32m          <table>[m
+[32m+[m[32m            <tr>[m
+[32m+[m[32m              <td>原産地： </td>[m
+[32m+[m[32m              <td>岐阜県</td>[m
+[32m+[m[32m            </tr>[m
+[32m+[m[32m            <tr>[m
+[32m+[m[32m              <td>値段： </td>[m
+[32m+[m[32m              <td>8000 円 / kg</td>[m
+[32m+[m[32m            </tr>[m
+[32m+[m[32m          </table>[m
+[32m+[m[32m        </div>[m
+[32m+[m[32m        <div class="card-footer">[m
+[32m+[m[32m          <small class="text-muted">この和牛の詳細を見る</small>[m
+[32m+[m[32m        </div>[m
+[32m+[m[32m      </a>[m
+     </div>[m
+     <div class="card-deck row">[m
+[32m+[m[32m      <a href="#" class="card">[m
+[32m+[m[32m        <img class="card-img-top" src="img/ph_beaf.jpg">[m
+[32m+[m[32m        <div class="card-body">[m
+[32m+[m[32m          <h5 class="card-title">仙台牛</h5>[m
+[32m+[m[32m          <table>[m
+[32m+[m[32m            <tr>[m
+[32m+[m[32m              <td>原産地： </td>[m
+[32m+[m[32m              <td>岐阜県</td>[m
+[32m+[m[32m            </tr>[m
+[32m+[m[32m            <tr>[m
+[32m+[m[32m              <td>値段： </td>[m
+[32m+[m[32m              <td>8000 円 / kg</td>[m
+[32m+[m[32m            </tr>[m
+[32m+[m[32m          </table>[m
+[32m+[m[32m        </div>[m
+[32m+[m[32m        <div class="card-footer">[m
+[32m+[m[32m          <small class="text-muted">この和牛の詳細を見る</small>[m
+[32m+[m[32m        </div>[m
+[32m+[m[32m      </a>[m
+       <a href="#" class="card">[m
+         <img class="card-img-top" src="img/ph_beaf.jpg">[m
+         <div class="card-body">[m
